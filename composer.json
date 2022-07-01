@@ -1,0 +1,22 @@
+{
+    "name": "awam/se2",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Awam\\Se2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Feras",
+            "email": "masoudferas@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "symfony/panther": "^1.1"
+    },
+    "require-dev": {
+        "dbrekelmans/bdi": "^1.0"
+    }
+}
